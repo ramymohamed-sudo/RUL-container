@@ -1,0 +1,9 @@
+
+pandas
+flask
+matplotlib
+sklearn
+tensorflow
+requests
+net-tools
+websocket
